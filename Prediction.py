@@ -62,10 +62,17 @@ if st.button("Classify"):
         st.warning("Please enter some text.")
     else:
         label, confidence = predict_text(user_input)
-        st.write(confidence)
-        st.markdown(f"""
-        <div class='prediction-box fade-in'>
-            <h4>Prediction: <span style="color:#2196f3">{label}</span></h4>
-            <p>Confidence: <strong>{confidence:.2%}</strong></p>
-        </div>
-        """, unsafe_allow_html=True)
+        if(label = "AI" and confidence:.2% > 0.96):
+            st.markdown(f"""
+            <div class='prediction-box fade-in'>
+                <h4>Prediction: <span style="color:#2196f3">{label}</span></h4>
+                <p>Confidence: <strong>{confidence:.2%}</strong></p>
+            </div>
+            """, unsafe_allow_html=True)
+        else:
+            st.markdown(f"""
+            <div class='prediction-box fade-in'>
+                <h4>Prediction: <span style="color:#2196f3">{"Human"}</span></h4>
+                <p>Confidence: <strong>{confidence:.2%}</strong></p>
+            </div>
+            """, unsafe_allow_html=True)
