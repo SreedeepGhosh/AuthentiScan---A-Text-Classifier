@@ -38,6 +38,8 @@ AuthentiScan-A-Text-Classifier/
 ├── logreg_ai_human_model.joblib  # Trained logistic regression model
 ├── tfidf_vectorizer.joblib       # TF-IDF vectorizer
 ├── style.css                     # Custom styles for Streamlit UI
+├── Input_Screen.jpg              # Screenshot of main page
+├── Prediction_Page.jpg           # Screenshot of prediction result 
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
 </code></pre>
