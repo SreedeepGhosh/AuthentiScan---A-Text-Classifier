@@ -96,7 +96,7 @@ This is both the Streamlit app and the prediction engine. It:
 <hr>
 
 <h2>📸 Screenshots</h2>
-<p><em>Replace below images with real screenshots</em></p>
+<p><em>The following are the screenshots of main input page and the page after text classification is done.</em></p>
 <table>
   <tr>
     <th>🔤 Input Screen</th>
@@ -104,7 +104,7 @@ This is both the Streamlit app and the prediction engine. It:
   </tr>
   <tr>
     <td><img src="Input_Screen.jpg" alt="Input Screen" width="100%"></td>
-    <td><img src="Prediction_Result.jpg" alt="Prediction Result" width="100%"></td>
+    <td><img src="Prediction_Page.jpg" alt="Prediction Result" width="100%"></td>
   </tr>
 </table>
 
