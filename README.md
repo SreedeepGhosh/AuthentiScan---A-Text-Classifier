@@ -3,8 +3,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" alt="Streamlit">
-  <img src="https://img.shields.io/github/languages/top/SreedeepGhosh/AuthentiScan---A-Text-Classifier" alt="Top Language">
-  <img src="https://img.shields.io/github/license/SreedeepGhosh/AuthentiScan---A-Text-Classifier" alt="License">
+  <img src="https://img.shields.io/github/languages/top/SreedeepGhosh/AuthentiScan-A-Text-Classifier" alt="Top Language">
+  <img src="https://img.shields.io/github/license/SreedeepGhosh/AuthentiScan-A-Text-Classifier" alt="License">
 </p>
 
 <p>
@@ -47,8 +47,8 @@ AuthentiScan-A-Text-Classifier/
 <h2>⚙️ How to Use</h2>
 
 <h4>🔧 Step 1: Clone the Repository</h4>
-<pre><code>git clone https://github.com/SreedeepGhosh/AuthentiScan---A-Text-Classifier.git
-cd AuthentiScan---A-Text-Classifier</code></pre>
+<pre><code>git clone https://github.com/SreedeepGhosh/AuthentiScan-A-Text-Classifier.git
+cd AuthentiScan-A-Text-Classifier</code></pre>
 
 <h4>📦 Step 2: Install Dependencies</h4>
 <pre><code>pip install -r requirements.txt</code></pre>
