@@ -103,8 +103,8 @@ This is both the Streamlit app and the prediction engine. It:
     <th>✅ Prediction Result</th>
   </tr>
   <tr>
-    <td><img src="assets/input.png" alt="Input Screen" width="100%"></td>
-    <td><img src="assets/result.png" alt="Prediction Result" width="100%"></td>
+    <td><img src="Input_Screen.jpg" alt="Input Screen" width="100%"></td>
+    <td><img src="Prediction_Result.jpg" alt="Prediction Result" width="100%"></td>
   </tr>
 </table>
 
