@@ -44,6 +44,7 @@ AuthentiScan-A-Text-Classifier/
 
 <hr>
 
+
 <h2>⚙️ How to Use</h2>
 
 <h4>🔧 Step 1: Clone the Repository</h4>
@@ -61,6 +62,12 @@ cd AuthentiScan-A-Text-Classifier</code></pre>
 <h2>🧪 How the Model Works</h2>
 <p>
 The classification model uses a classic machine learning pipeline built with <strong>TF-IDF vectorization</strong> and <strong>Logistic Regression</strong>. It was trained on a dataset of labeled AI and human text samples.
+</p>
+
+<h4>📂 Dataset</h4>
+<p>
+The model is trained using the "<strong>AI vs Human Text</strong>" dataset from Kaggle. You can access it here:<br>
+🔗 <a href="https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text" target="_blank">AI vs Human Text Dataset – Kaggle</a>
 </p>
 
 <h3>📌 ModelTraining.py</h3>
